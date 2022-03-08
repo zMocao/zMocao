@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mocao</h1>
-<h3 align="center">I am the owner of growmmc private server!</h3>
+<h3 align="center">I am owner In growmmc private server!</h3>
 
 - 🔭 I’m currently working on **GTPS**
 
