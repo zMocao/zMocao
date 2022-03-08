@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning other programing language
 
-- 🤝 I’m looking for help with [Community (GC)](https://discord.gg/guckproject)
+- 🤝 I’m looking for help with [Community](https://discord.gg/guckproject)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
