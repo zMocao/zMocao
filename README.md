@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C++**
 
-- 🌱 I’m currently learning **C++ & C#**
+- 🌱 I’m currently learning other programing language
 
 - 🤝 I’m looking for help with [Community (GC)](https://discord.gg/guckproject)
 
