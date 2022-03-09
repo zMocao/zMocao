@@ -7,8 +7,8 @@
 
 - 🤝 I’m looking for help with [Community](https://discord.gg/guckproject)
 
-<H3 align="left">Quotes:</h3>
-😎 kamu adalah terminal ku, dimana aku menghabiskan waktu ku untuk mengetikan beribu baris kode cinta untukmu
+<H3 align="left">Asupan :</h3>
+kamu itu bagaikan code yang terusun rapih di setiap baris, namun apabila membuat sedikit kesalahan saja akan merusak semuanya.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://youtube.com/channel/ucynyjykmxqseusrt6tyvpqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucynyjykmxqseusrt6tyvpqg" height="30" width="40" /></a>
