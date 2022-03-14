@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paku</h1>
-<h3 align="center">Developing GTOM Now!</h3>
+<h3 align="center">Welcome to my github..</h3>
 
 - 🔭 I’m currently working on **GTPS**
 
