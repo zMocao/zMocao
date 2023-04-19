@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mocao</h1>
 <h3 align="center">Welcome to my github..</h3>
 
-- 🔭 I’m currently working on **GTPS**
+- 🔭 I’m currently working on Growtopia Private Server
 
 - 🌱 I’m currently learning other programing language
 
-- 🤝 I’m looking for help with [Community](https://discord.gg/guckproject)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Support :</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://youtube.com/channel/ucynyjykmxqseusrt6tyvpqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucynyjykmxqseusrt6tyvpqg" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/guckproject" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/guckproject" height="30" width="40" /></a>
