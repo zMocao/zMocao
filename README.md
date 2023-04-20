@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="./gif/mario.gif">
+</div>
+
 <h1 align="center">Hi 👋, I'm Mocao</h1>
 <h3 align="center">I'm a Growtopia Private Server developer (Joined since 2019)</h3>
 
