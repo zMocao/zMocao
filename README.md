@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on
 **Growtopia Private Server**
 
-- 🌱 I’m currently learning
-**C#, JS, DJS, & PYTHON**
+- 🌱 I’m currently learning **JS & PYTHON**
 
 - 🤝 I’m looking for help with [IKT](https://iktindonesia.ml/)
 
