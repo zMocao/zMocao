@@ -6,12 +6,12 @@
 - 🔭 I’m currently working on
 **Growtopia Private Server**
 
-- 🌱 I’m currently learning **JS & PYTHON**
+- 🌱 I’m currently learning **JS & C#**
 
 - 🤝 I’m looking for help with [IKT](https://iktindonesia.ml/)
 
 - ⚡ Fun fact
-**I'm a very good person**
+**I'm a good person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
