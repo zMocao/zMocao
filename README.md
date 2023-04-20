@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./gif/mario.gif">
+    <img src="super_mario_64-super-mario.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Mocao</h1>
